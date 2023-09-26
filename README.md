@@ -1,5 +1,5 @@
 # Wearable-Data-Analysis
-Used publically availble wearable data to perform following:
+Used publicly availble wearable data to perform following:
 - Data cleaning and pre-processing
 - Feature engineering
 - Exploratory data analysis
